@@ -66,9 +66,9 @@ All problem sets descriptions can be [found here](https://cs50.harvard.edu/pytho
 3. **CS50 Shirtificate:** `shirtificate`
 
 ### Week 9 - Et Cetera
-[Final Project](https://github.com/Luxxer1/cs-50-python-final-project-database-4-sale)
-
-
+- No problem sets here
+- 
+## [Final Project](https://github.com/Luxxer1/cs-50-python-final-project-database-4-sale)
 
 
 ## How to Use
