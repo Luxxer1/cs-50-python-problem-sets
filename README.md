@@ -2,7 +2,7 @@
 
 This repository contains my solutions to the problem sets from the CS50 Introduction to Computer Science course, specifically the Python track. The course is offered by Harvard University and covers fundamental concepts in computer science and programming.
 
-All problem sets descriptions can be [found here](https://cs50.harvard.edu/python/2022/)
+> All problem sets descriptions can be [found here](https://cs50.harvard.edu/python/2022/)
 
 ## Problem Sets: `directory`
 
@@ -74,5 +74,7 @@ All problem sets descriptions can be [found here](https://cs50.harvard.edu/pytho
 ## How to Use
 - Each problem set is contained in its respective directory.
 - To run a specific problem set, execute the corresponding Python file using a Python interpreter.
+- If the folder has the file "requirements.txt", you must run `pip install -r requirements.txt` in a terminal to correctly install all the libraries needed to run the program
+- If you are having difficulties or don't know how to test the program, I recommend searching [Here](https://cs50.harvard.edu/python/2022/) for the corresponding weeks in the side menu and looking at the corresponding problem set. Within the problem set there is a **How to Test** section exemplifying how to test the program.
 
 Feel free to explore the solutions and use them as a reference. If you have any questions or suggestions, feel free to open an issue or reach out to me.
