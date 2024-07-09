@@ -6,7 +6,7 @@ names = []
 while True:
     try:
         names.append(input("Name: "))
-    except EOFError:
+    except (EOFError, KeyboardInterrupt):
         print()
         break
 

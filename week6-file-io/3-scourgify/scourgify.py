@@ -19,7 +19,7 @@ else:
                         {"first": first, "last": last, "house": row["house"]}
                     )
 
-            with open(sys.argv[2], "w") as file:
+            with open(sys.argv[2], "w", newline='') as file:
                 writer = csv.DictWriter(file, fieldnames=["first", "last", "house"])
                 writer.writeheader()
                 for student in students:

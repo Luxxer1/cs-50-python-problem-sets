@@ -5,7 +5,7 @@ def main():
 
 def is_valid(s):
     if len(s) < 2 or len(s) > 6:
-        return True
+        return False
     elif not s[0:2].isalpha() or not s.isalnum():
         return False
     else:
@@ -17,7 +17,7 @@ def is_valid(s):
                     return False
                 else:
                     return True
-        return False
+        return True
 
 
 if __name__ == "__main__":

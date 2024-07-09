@@ -32,7 +32,6 @@ else:
                                 "Large": row["Large"],
                             }
                         )
-                input(pizza)
                 print(tabulate(pizza, headers="keys", tablefmt="grid"))
 
         except FileNotFoundError:
