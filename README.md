@@ -29,7 +29,7 @@ This repository contains my solutions to the problem sets from the CS50 Introduc
 
 ### Week 3 - Exceptions
 1. **Fuel Gauge:** [fuel](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week3-exceptions/1-fuel)
-2. **Felipe’s Taqueria:** `taqueria`
+2. **Felipe’s Taqueria:** [taqueria](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week3-exceptions/2-taqueria)
 3. **Grocery List:** [grocery](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week3-exceptions/3-grocery)
 4. **Outdated:** [outdated](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week3-exceptions/4-outdated)
 
