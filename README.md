@@ -43,7 +43,7 @@ This repository contains my solutions to the problem sets from the CS50 Introduc
   
 ### Week 5 - Unit Tests
 1. **Testing my twttr:** [test_twttr](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week5-unit-tests/1-test_twttr)
-1. **Back to the Bank:** `test_bank`
+1. **Back to the Bank:** [test_bank](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week5-unit-tests/2-test_bank)
 1. **Re-requesting a Vanity Plate:** [test_plates](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week5-unit-tests/3-test_plates) 
 1. **Refueling:** [test_fuel](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week5-unit-tests/4-test_fuel)
 
