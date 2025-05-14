@@ -63,7 +63,7 @@ This repository contains my solutions to the problem sets from the CS50 Introduc
 ### Week 8 - Object-Oriented Programming
 1. **Seasons of Love:** [seasons](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week8-object-oriented-programming/1-seasons)
 2. **Cookie Jar:** [jar](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week8-object-oriented-programming/2-jar)
-3. **CS50 Shirtificate:** `shirtificate`
+3. **CS50 Shirtificate:** [shirtificate](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week8-object-oriented-programming/3-shirtificate)
 
 ### Week 9 - Et Cetera
 - No problem sets here
