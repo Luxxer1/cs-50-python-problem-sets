@@ -51,7 +51,7 @@ This repository contains my solutions to the problem sets from the CS50 Introduc
 1. **Lines of Code:** [lines](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week6-file-io/1-lines)
 2. **Pizza Py:** [pizza](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week6-file-io/2-pizza)
 3. **Scourgify:** [scourgify](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week6-file-io/3-scourgify)
-4. **CS50 P-Shirt:** `shirt`
+4. **CS50 P-Shirt:** [shirt](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week6-file-io/4-shirt)
 
 ### Week 7 - Regular Expressions
 1. **NUMB3RS:** [numb3rs](https://github.com/Luxxer1/cs-50-python-problem-sets/tree/main/week7-regular-expressions/1-numb3rs)
